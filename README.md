@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Juan Pablo Muñoz
 
+![Banner](https://github.com/jpmm323-QA/jpmm323-QA/blob/main/quality-assurance-banner.png)
+
 QA Automation Engineer focused on building reliable automated tests and improving software quality.
 
 I enjoy creating scalable automation frameworks, testing APIs and ensuring applications work as expected before reaching users.

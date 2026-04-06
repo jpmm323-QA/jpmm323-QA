@@ -26,7 +26,6 @@ I enjoy creating scalable automation frameworks, testing APIs and ensuring appli
 
 **Languages**
 - JavaScript
-- TypeScript
 
 **Tools**
 - Git

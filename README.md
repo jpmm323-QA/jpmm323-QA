@@ -49,6 +49,6 @@ Testing framework implementing best practices such as Page Object Model and reus
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/juanpablomunoz
+- LinkedIn: https://www.linkedin.com/in/juanpablomunoz-qa/
 - GitHub: https://github.com/jpm323-QA
 - Email: jpm323@gmail.com
